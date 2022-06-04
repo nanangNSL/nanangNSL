@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nanang</h1>
-<h3 align="center">A passionate full-stack developer from Indonesia</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Indonesia</h3>
+<blockquote align="center">"Give me a star🌟 and I will keep writing the repo"</blockquote>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanangnsl&label=Profile%20views&color=079282&style=flat" alt="nanangnsl" /> </p>
 
